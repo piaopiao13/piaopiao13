@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm searching for a good job.
+
+I’m currently learning Bootstrap.
+
+Good good study! Day day up!  😄 
+
 <!--
 **piaopiao13/piaopiao13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
